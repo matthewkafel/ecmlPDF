@@ -1,6 +1,10 @@
 # ECM-L Architecture Documentation Repository
 
-This repository contains the ECM-L (Enterprise Correspondence Management - Letters) architecture documentation in both PDF and extracted formats.
+This repository contains the ECM-L (Enterprise Correspondence Management - Letters) architecture documentation in both PDF and fully extracted formats.
+
+**✨ ALL CONTENT INCLUDING DIAGRAMS IS NOW READABLE BY COPILOT! ✨**
+
+Using advanced OCR (Optical Character Recognition), all text from diagrams, flowcharts, and images has been extracted and made searchable. Copilot can now answer questions about visual content in the documentation.
 
 ## 📄 Available Documentation
 
