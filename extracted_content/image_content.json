@@ -1,0 +1,394 @@
+[
+  {
+    "filename": "page_006_image_02.png",
+    "path": "images/page_006_image_02.png",
+    "width": 700,
+    "height": 116,
+    "text": "Correspondence\n\n(An Actual Letter )",
+    "text_length": 35
+  },
+  {
+    "filename": "page_008_image_13.png",
+    "path": "images/page_008_image_13.png",
+    "width": 885,
+    "height": 590,
+    "text": "Example Letter Template\n\nInputs Resources\n\nLetter Manager User\n\nExample Letter Instance Veteran API\n\nInputs Resources\n\nClaims APL\n\nas From\n\nCorrespondence",
+    "text_length": 154
+  },
+  {
+    "filename": "page_009_image_01.png",
+    "path": "images/page_009_image_01.png",
+    "width": 600,
+    "height": 630,
+    "text": "This is an example of HEADER\ncontent that should appear at the\ntop of all VA correspondence.\n\nThis is an example of FOOTER\ncontent that should appear at the\ntop of all VA correspondence.\n\nVA Header\nFragment Template |___\u2014__+\nVA Footer\nFragment Template |____\u2014_\u2014_+\nDevelopment Letter |\nFull Template\n\nVA Header\nFragment Template\n\nInclude \"VA HEADER\u201d\n\nThis is the content unique to the\nDEVELOPMENT LETTER that,\n\\will appear for it exclusively.\n\nInclude \"VA FOOTER\u201d\n\nVA Footer\nFragment Template\n\nEnd Results\nActual Correspondence\n\nThis is an example of HEADER\ncontent that should appear at the\ntop of all VA correspondence.\n\nThis is the content unique to the\nDEVELOPMENT LETTER that will\nappear for it exclusively.\n\nThis is an example of FOOTER\ncontent that should appear at the\ntop of all VA correspondence.",
+    "text_length": 805
+  },
+  {
+    "filename": "page_013_image_10.png",
+    "path": "images/page_013_image_10.png",
+    "width": 840,
+    "height": 292,
+    "text": "\u2018Changeset X (Published) \u2018Changeset Y (Scheduled)\n\n\u2018Changeset Z (Draft)\n\n\u2018Templates with this lock icon are\n\"Changeset Locked\u2019 and can not be\n\u2018added to any additional Changesets.",
+    "text_length": 178
+  },
+  {
+    "filename": "page_013_image_11.png",
+    "path": "images/page_013_image_11.png",
+    "width": 520,
+    "height": 279,
+    "text": "User picks Template\n\"Sample Letter\u201d on:\nv3.4\n\nUser creates a new\nVersion of the Template.\n\nUser modifies inputs on System sets the new\nthe Template and marks its Version to:\nTBD\n\nChangeset as Approved\n\n|\n\nUser fixes a typo in the\nTemplate and marks its\nChangeset as Approved.\n\nSystem sets the new\nVersion to:\n\nv4.0\n\nSystem sets the new\nVersion to:\n\nv3.5",
+    "text_length": 353
+  },
+  {
+    "filename": "page_014_image_10.png",
+    "path": "images/page_014_image_10.png",
+    "width": 450,
+    "height": 393,
+    "text": "Full Template A.\n\nLine of Business A\n\nFull Template G\n\nFull Template B Workdiow At\nFull Template C\nFull Template D\n\nWorkflow A2\nFull Template E\nFull Template F\n\nWorkflow A3",
+    "text_length": 172
+  },
+  {
+    "filename": "page_017_image_10.png",
+    "path": "images/page_017_image_10.png",
+    "width": 1028,
+    "height": 317,
+    "text": "=<BRM Capabilty>>\n\n2.13 Provide Organizational Leadership and Administrative Support\n\n<<BRM Service>>\n2.13.2 Perform Office Administrative Support Functions\n\n<<BRM Funetion=>\n2.13.25 Manage Correspondence",
+    "text_length": 204
+  },
+  {
+    "filename": "page_018_image_27.png",
+    "path": "images/page_018_image_27.png",
+    "width": 1180,
+    "height": 1237,
+    "text": "ECM-L API\n\nView list of Get List of Letter\nConnections Instances\n\n<= include >>\n\nManage Resource\n\nCreate Letter\nInstance(s)\n\nFast Track Letter LoB System Actor\nener Instance(s)\nLine of Business Workflows\n\u2018Administrator 1 canbe\n\n\u00a9 associated\n\nUpdate Letter\n\nInstance(s)\nManage Labels,\nx\n\nFinalize Letter\n\nInstance(s)\nWnts Delete Letter\n| Instance(s)\nManage Templates Render Letter\nInstance as PDF\nChangeset\n\nEaitor\n\nView List of Files\nManage Files | |\n\nFinalize Letter\nInstance\nManage\nChangesets\n\nLetter Finalizer\n\n\u201cView List of Letter\ninstances\nApprove\nChangesets Letter Instance\nData\nChangeset Letter Viewer\nPublisher Render Letter\nSchedule Instance as PDF\nChangesets\nManage Letter\ninstance\nLegend\n\nLetter Editor\n\nJOrange = LoB System Actor Functions",
+    "text_length": 751
+  },
+  {
+    "filename": "page_021_image_25.png",
+    "path": "images/page_021_image_25.png",
+    "width": 1208,
+    "height": 559,
+    "text": "Intake Process LoB System Processes\n\nAccess LoB\n\nIntake an LoB eset\n\nCreate\nResources\n\nCreate\nTemplate\n\nAccess\n\nCreate Letters gees\n\nRB\nIntake LoB's\nConnections\n(realizes realizes\ni i i Createlupdate\n| \u2014 SOC package __,| Package Manager\n3 E 2] SWF erachioaton paler\nResource Manager| | Template Manager Letter Manager ECM-LAPI\n] ] ] Store PDF\nUse connection Access resource data Access data pccoss utteraatas mata\nto establish to populate cess Letter data ____+} claim Evidence\nfo establis popul \u2018Automation access\n+O LoB System realizes\nLoB API",
+    "text_length": 545
+  },
+  {
+    "filename": "page_022_image_08.png",
+    "path": "images/page_022_image_08.png",
+    "width": 1482,
+    "height": 1106,
+    "text": "[BIP Proper\n\nBros \u00a2--Publishes To\n\nECM.L\nVASI: 3506\n\n2]\n\nmH\n\nECM-L\nDatabase\n\n+ _ rempiate Manager\n\nResource Manager\nbip-ecml-resource-manager\n\nResource\nManager\n\nOQ API\n\nResource Manager Ul\nie-som-esouree-manager-mfe-\n\n2\n\nbip-eoml-template-manager\n\nTemplate\nManager\n\nry *\n\n\u2018Template Manager UL\nbip-2cm-template-manager-mfe-\n\n&\n\nECML\n83 Bucket\n\nOptional MFE\nDependency\n\nLetter Manager\n\nbip-eoml-etter-manager\n\nLetter\nManager\nAPI\n\n2]\n\nLetter Manager UI\nbip-eomlater manager-mfe-u\n\n=]\n\nECM-L Service\nbip-ecml-api\n\nECM-L\nManager\nAPI\n\nPackage Manager\nbip-pacman\n\u2018VAST: 2993,\n\ncian Evdenod\n\nbip-vefs-claimevidence\n\u2018ASI: 3023\n\nLine of Business Tenant\nVASI: NA\n\n2]\n\nLine of Business Ul\n\n\u00a9\n\nLine of\nBusiness\nAPI\n\n2]\n\nLine of Business Service",
+    "text_length": 731
+  },
+  {
+    "filename": "page_023_image_09.png",
+    "path": "images/page_023_image_09.png",
+    "width": 1296,
+    "height": 868,
+    "text": "[BIP FTI Secure Enclave\n\nFTIECM.L\n\n[BIP Proper VASI: TBD\n\ndepends on\n\nra CML Content =\n\nResource Manager : Template Manager Letter Manager\nbip-ccmiresourcemanager | {| bip-ecmi-template-manager bip-ecmiletter manager\nResource Template Letter\nManager Manager Manager\nAPI i API API\nResource Manager UL i Template Manager UI Letter Manager UI\n\u2018bip-ecmi-resource-manager-mie-ui H bip-ecmbtempiate-manager-mie-ui bip-eomb-letter-manager-mfe-ui\n\nOptional MFE Dependency\n\n2]\n\nFTI Fle Repo\nwn] EOMEL Service Dip ttevepo\nipecmi-api \u2018VASI: 3014,\n\nECM-LAPL\n\nf] Line of\n\nBusiness\nLine of Business System APL\n\nLine of Business Tenant\nVASI:N",
+    "text_length": 627
+  },
+  {
+    "filename": "page_024_image_25.png",
+    "path": "images/page_024_image_25.png",
+    "width": 1430,
+    "height": 435,
+    "text": "\u2014\u2014\n\nECMLL API\n\ngetSingleLetter\n\ngetList\n\nfinalizeLetter\n\nLOB System\n\ndeleteLetter\n\nupdateLetter\n\ncreateLetter\n\nlistTemplates\n\ngetTempiate\n\n\u2014 aT |\nLetter Manager\n\n\u2018Template Manager\n\nGET TM/tempiate?status=[DRAFT, COMPLETED APPROVED, AVAILABLE RETIRED, CANCELLED]\n\nGET TMitempiate/{uuid}",
+    "text_length": 285
+  },
+  {
+    "filename": "page_024_image_26.png",
+    "path": "images/page_024_image_26.png",
+    "width": 812,
+    "height": 500,
+    "text": "==Product #2205\u00b0>\nBIP\n\n==Tenant #3506\u00b0> Tenant System\n\nECM-L\n\n<<MFE Service>>\nResource Manager\nbip-ecm--resource-manager\n\nResource\nDependency\n\n<=RESTIul Service>>\nLOB API\n\n<<MFE Service>>\nTemplate Manager Resource\nbip-ecm--template-manager Dependency\n\n<<MFE Service>> Resource\n\nLetter Manager \u2018Dependency\nbip-ecrr-Hietter-manager leg\n\nResource Dependency\n\n<\u00abRESTIul Service>>\nECM-LAPI\n\nResource\ntt Dependency\n\n2:43 Provide Organizational Leadership and Administrative Support\n\nt Implements >|*2.13.2 Perform Office Administrative Support Functions\n_ |+ 2.13.2.5 Manage Correspondence",
+    "text_length": 583
+  },
+  {
+    "filename": "page_025_image_18.png",
+    "path": "images/page_025_image_18.png",
+    "width": 1285,
+    "height": 344,
+    "text": "Connection Configuration Lifecycle | Resource Version Lifecycle Template Version Lifecycle Letter Instance Lifecycle\n\nAVAILABLE fem Enables its use here!\n\nEnables its use here Enables its use here\n\nAVAILABLE AVAILABLE",
+    "text_length": 217
+  },
+  {
+    "filename": "page_026_image_10.png",
+    "path": "images/page_026_image_10.png",
+    "width": 479,
+    "height": 795,
+    "text": "REJECTED\n\n[ECM-L Realm\n\u2014_1r\u2014\u2014_.\n\nPROVISIONED\n\nConnection Configuration\nPublished Event\n\nAVAILABLE\n\nConnection Configuration\nRetired Event\n\nRETIRED\n\nConnection Configuration\nDecommissioned Event,\n\n\u2014_r\u2014\u2014_.\nDECOMMISSIONED}",
+    "text_length": 219
+  },
+  {
+    "filename": "page_028_image_12.png",
+    "path": "images/page_028_image_12.png",
+    "width": 215,
+    "height": 330,
+    "text": "AVAILABLE\n\nKey Parameter Type Retired Event\n\nRETIRED\n\nC)",
+    "text_length": 56
+  },
+  {
+    "filename": "page_029_image_11.png",
+    "path": "images/page_029_image_11.png",
+    "width": 410,
+    "height": 465,
+    "text": "Resource Version Draft\nCreated Event\n\nResource Version\nDRAFT Deleted DELETED\nEvent\n\nResource Version Draft\nCompleted Event\n\nAVAILABLE\n\nResource Version\nRefired Event\n\nRETIRED\n\n\u00a9",
+    "text_length": 177
+  },
+  {
+    "filename": "page_030_image_31.png",
+    "path": "images/page_030_image_31.png",
+    "width": 720,
+    "height": 843,
+    "text": "Chan:\n\nRecalled\n\nEve\n\nChangeset Draft\nCreated Event\n\nChangeset Cancelled\n\nDRAFT Event\nChangeset Draft\nCompleted\nEvent\nRetirement Action(s)\n\nonly?\nwgeset\n\nent No Yes\n\n\u2014\u2014\u2014 |\nREADY TO TEST\n\nChangeset Submitted For Approval\nEvent\n\nWe \u2014_____]\n\nREADY FOR\n\u2018APPROVAL\nChangeset Rejected\nEvent\n\n\u2018Changeset Approval Process\n\nREJECTED \u2018Complete Event\n\n\u2014\u2014\n\nChangeset Publishing Planned Event\n\nChangeset\nRescheduled\nEvent Changeset\nSCHEDULED \u2018Scheduled Time\n\nCANCELLED\n\nChangeset\nCancelled\nEvent\n\n@\u00ae\n\nr%\n\nArrived Event\n\nPUBLISHED",
+    "text_length": 515
+  },
+  {
+    "filename": "page_033_image_10.png",
+    "path": "images/page_033_image_10.png",
+    "width": 419,
+    "height": 340,
+    "text": "Label\nAVAILABLE Deleted\nEvent\n\nLabel Label Retired Event\n\nUnretired Event\nRETIRED DELETED\n\nC)",
+    "text_length": 93
+  },
+  {
+    "filename": "page_034_image_33.png",
+    "path": "images/page_034_image_33.png",
+    "width": 570,
+    "height": 675,
+    "text": "Template Version Draft\nCreated Event\n\nTemplate Version\n\nRecalled\nEvent\nTemplate Version Draft\nCompleted Event\n\u2014\u2014 Template Version\n\nCancelled Event\n\nTemplate Version\nTest(s) Passed Event\n\n\u2018Template Approval Process\nCompleted Event\n\n\u2018Template Version Available\nEvent\n\nyv",
+    "text_length": 268
+  },
+  {
+    "filename": "page_036_image_09.png",
+    "path": "images/page_036_image_09.png",
+    "width": 512,
+    "height": 470,
+    "text": "DRAFT\nFile Version van\nRecalled File Version Dra\n\u2018Completed\nEvent pmole\n\u2018COMPLETED\n\nFile Version Draft\nCreated Event\n\nFile Approval Process\n\u2018Completed Event\n\nAPPROVED\n\nFile Version Available\nEvent\n\nAVAILABLE\n\nFile Version\n\u2018Cancelled Event\n\nFile Version\nRefired Event\n\nCANCELLED\n\nened} +)",
+    "text_length": 287
+  },
+  {
+    "filename": "page_038_image_06.png",
+    "path": "images/page_038_image_06.png",
+    "width": 545,
+    "height": 620,
+    "text": "Retirement Action\nRecalled Event\n\nRetirement Action Draft\nCreated Event\n\n\u2014_r\u2014\u2014.\n\nDRAFT\n\nRetirement Action Draft\n\nRetirement Action\n\nApproval Completed Event\n\n\u2014_r\u2014\u2014.\n\nAPPROVED\n\nRetirement Action\nPublished Event\n\nPUBLISHED\n\na\n\nCompleted Event Canceled\nEvent\n\u2014_r\u2014\u2014.\nCOMPLETED\nRetirement Action\n\nCANCELED",
+    "text_length": 300
+  },
+  {
+    "filename": "page_040_image_24.png",
+    "path": "images/page_040_image_24.png",
+    "width": 490,
+    "height": 521,
+    "text": "Test Scenario Draft\nCreated Event\n\nTest Scenario\n\nDeleted Event\nDRAFT DELETED\nTest Scenario\nRecalled to\n\nDraft Event Test Scenario\nCompleted Event\n\nREADY FOR\nREVIEW\n\naS [mse] \u00a9\nresem\n\nDraft Event",
+    "text_length": 195
+  },
+  {
+    "filename": "page_042_image_25.png",
+    "path": "images/page_042_image_25.png",
+    "width": 400,
+    "height": 455,
+    "text": "Workflow Draft\n\nCreated event\nWorktow Dra\nboil Deleted Event DELETED\nWorktow Drat\n\nCompleted Event\n\nAVAILABLE\n\nth\n\nWorkflow Retired Event\n\nRETIRED\n\nri",
+    "text_length": 150
+  },
+  {
+    "filename": "page_043_image_21.png",
+    "path": "images/page_043_image_21.png",
+    "width": 560,
+    "height": 590,
+    "text": "Letter Instance Draft\nCreated Event\n\n\u2014 Letter instance\nRecreated Event\nLetter Instance\nRecalled\nEvent\n\nLetter Instance\n\nDraft Complete\nREJECTED Event\nLetter Instance\n\nRecalled Event\nLetter instance\nFinalized Event\n\nLetter Instance\nDrat Rejected READY FOR\n\nis REVIEW\n\nLetter Instance\nFinalized Event\n\nFINALIZED\n\nLetter Instance\nArchived Event\n\nLetter Instance\nARCHIVED Roche Event Cancelled\n\nLetter instance\nCancelled Event",
+    "text_length": 422
+  },
+  {
+    "filename": "page_046_image_05.png",
+    "path": "images/page_046_image_05.png",
+    "width": 895,
+    "height": 898,
+    "text": "Has zero to many\n\n\u2018Owns zero to many:\n\nHas zero to many\n\n=) Le]\n\nOwns zet\n\u2018tomany\n\nHas zero Has zero\ntomany tomany\nUses Uses\nzero to. many zero to many\n\nHas one\n\u2018to many\n\nContains\nzero to many\n\nContains\nzero\ntomany,\n\nContains\nzero to many\n\nUses\nzero to many\n\nIsa Isa\n\nContains zero,\ntomany\n\nAssociated\nwith\nzero to many",
+    "text_length": 319
+  },
+  {
+    "filename": "page_047_image_04.png",
+    "path": "images/page_047_image_04.png",
+    "width": 1335,
+    "height": 900,
+    "text": "Resource Manager Template Manager\n\nLine of Business\n\nTemplate Label Conditional Attachment.\nio io fs >>\ntabeKs) Name Name\n\n=| Condon\u2019) 1\nPe\nTg [concn\nio\nName\nHype\nResource Template Version Input Restriction Explanation\nenpater io io\ntf fWame Name \u00a5\nName [Type |Condition(s)\nDescription Betaut Reason\nod |Input(s) [Type\nRecource ID(s) 4,\nContent\nRestriction ID(s)\n|Conditional Attachment ID(s) File\nResource Version 7\niD dame\nName [Type\nPath\nennection Coniguration 10\ned Workflow\nKR iD File Version\nPath Key Parameter Type. OqName File ID\nine of Business 1D lo\n\n1D 1D #Template(s) IName\n\nKey Parameter Type(s) Name |Key Parameter Type(s) Content\n\nORL tine of Business 1D\n\nTater Manager\n\nR\nJ ceterinstance\nio\nHemplate Version 1D\nKey Parameter [emplte\nae status\nof Value Created Date\n\nInput Values\nData Resource Values\n[Key Parameter(s)",
+    "text_length": 833
+  },
+  {
+    "filename": "page_051_image_32.png",
+    "path": "images/page_051_image_32.png",
+    "width": 1920,
+    "height": 2587,
+    "text": "key\n\nI Resource manager\n[Dy tempiate Manager\n\nLetter Manager\n\n|-username: String\n| irstName: String\n[astName: String\n|-email: String",
+    "text_length": 132
+  },
+  {
+    "filename": "page_052_image_15.png",
+    "path": "images/page_052_image_15.png",
+    "width": 995,
+    "height": 770,
+    "text": "Data Source iad Data Resource Data Entry Components Inputs\n\nStatic Document Definition }>) File Resource Custom Content Components\n\nBlocking Letters rR\u2014\u2014\u2014\u2014\u2014\u201c+\n\nNew Letter Filters\n\nLetter Restrictions\n\nDevelopment Actions\n\nDecision Points\n\nFragment\nDynamic Document Defin. Reduction of Complexity\n\nRecommended Enclosure Conditional Attachment 12 | ned | 6\n\nRequired Enclosure",
+    "text_length": 374
+  },
+  {
+    "filename": "page_053_image_33.png",
+    "path": "images/page_053_image_33.png",
+    "width": 1105,
+    "height": 1104,
+    "text": "Data Source Data Resource Data Entry Components Inputs\nData Source >| Data Resource Associated Evidence List Builder\na Lets user choose froma\n\nStatic Document Definition\n\nFile Resource\n\n\u2018Sialic Document\n\nDefinition\n\n>| Local attachment\n\nBlocking Letters\n\nRestrictions\n\nEfolder Enclosures\n\n1\u2014Priist of complex objects\nreturned by a given\nresource\n\n\u2018Standard Enclosures\n\nBlocked By List\n\nNew Letter Filters\n\nSingle Copy Only\n\nCPD Only\n\nExisting Drafts\n[Condition\n\n[A non-FINAL instance of,\nJP ine given template must\nInot exist in the given\ncontext.\n\n[String Match Condition\np|Des the Resource Data\n\nLetter Restrictions\n\nField return a match for\n[the given string,\n\n[Attachment Selection\nLets user choose from a\nist of attachments, with\nheir own properties,\nJwhich can be\n\n| Recommended.\u201d\n\nFragment Selection\n\nDev Actions\n\nCustom Content Components\n\nConditional Group\n\n[Conditional Option Grou}\n\nP| Lets user choose from a\nlst of Fragment\n[Templates.\n\n[Option Selection\nLets user choose from a\nlist ofa data type\nreturned by a given\nresource. Options can\ncontain nested inputs.\n\nBoolean Condition\n\nContention Required\n\n[Does the Resource Data\nFed return true or false\n\nNumber Field\n\nPercent Field\n\nDate Field\n\nNumber\n[Can be configured as a\npercentage or a currency\nlor a \u201cregular\u201d number.\n\nDate\n[Can be configured as a\nJsingle date or as a range\n\not dates.\nDevelopment Actions Date Range Field\nFragments\nrime\nDev Action Definition p|Fragment Time Field $>|Can be military or\n[This Template can be standard time\nincluded within the\nDecision Points PY content of another String Field\n[Template. \\ [Text\n1_oIc.an be single or mutti-\nine\nDecision Point Definition Repeating Group\nMutipie types of\nAttachability Recipient Field ee owt telds\nstructured tke objects in\n- [attachability fa st\nDynamic Document Defin. Pace erates are\ninherently attachable to.\nDynamic Document Recipient\n\npplotner Templates, which\n\nDefinition\n\nImakes it easy to create\ncustomizable\nJAttachments\n\nLets user choose a\nrecipient from a list\nreturned from a given\n\nresource.\nRecommended Enclosure\nRecommended\nEnclosure\nConditional Attachment\n\nRequired Enclosure\n\nRequired Enclosure\n\n>| Conditional attachment]",
+    "text_length": 2177
+  },
+  {
+    "filename": "page_056_image_31.png",
+    "path": "images/page_056_image_31.png",
+    "width": 1150,
+    "height": 1380,
+    "text": "\u2018Submit Connection\n\n\u00b0 Configuration intake\n5 Form.\n2\n3 \u2018Start Intake\n2 Process\na\ng\nao\n\u2018O/5\n2} 2\n\u00a3\\e Process the\na/s Provisioned Make Connection\n3 Connection Configuration\n2g Configuration in Available\n3 Resource Manager.\ng Connection Contiguraton\n& is\nAVAILABLE\n\u00a7 create crange_| | submitchange\n2. Request for Extomal |p| Request to Release Make Coections 10\n>|> \u2018AP Integration. Management. ig Rea\nFa\na\n7\nI\ni\ng Approve Change Mark Change Mark Change Mark Change\n5 Request. equest as Request as Draft Request as Done.\n\u20147\u2014 ras\n1\niv i\n\u201c \u2014_Y\u2014_ H\ns H\ng |Create and add in the| H\n= secret and issuer !\nz= values for the three H\n2 ECM-L applications. H\na '\n? i\n1\niv i\nVv !\ns 1\nro Add the matching |\ns secret issuer values !\nZz into the three ECM-L H\n3 application vaults !\na |\" !\n2 1\n9 H\n1\n@l5 Vv |\na} 3) Integration \u2014 |\n5 Merge in PR to SUCCESSIAN? Ho\n2 provision the new Confirm Successful\ng Connection Integration. [\u2014\n5 Configuration\nfig\n5 \u2014\u2014Y__ inegratin\n2 Successful?\n& Confirm Successful\n= integration. [>\n@\ng\n\nECM-LAPI\n\nVv\n\nConfirm Successful\nIntegration,\n\nIntegration\n\u2018Successful?",
+    "text_length": 1082
+  },
+  {
+    "filename": "page_057_image_12.png",
+    "path": "images/page_057_image_12.png",
+    "width": 1220,
+    "height": 445,
+    "text": "LOB Admin)\nResourceManager\n\nCan only see\nconfigurations of\nour assigned LOB\n\nConnection Configuration\nmoves to AVAILABLE State|\n\nConnection\n5 \u00ae Successtul?\nview Select Test ser makes\nUstof Appropriate PROVISIONED > Yes\nConnection PROVISIONED \u2018Connection by oenneston\nconnection Ccontguarion(s) Connection checking API Sage\nConfiguration is\nPROVISIONED\nDisplay\n\\\u2014no: message open\na ticket for\n\nConnection Configuration\nPublished Event\n\ntO\n\nDevOos\n\nConnection\nConfiguration\nIntake Process",
+    "text_length": 486
+  },
+  {
+    "filename": "page_058_image_15.png",
+    "path": "images/page_058_image_15.png",
+    "width": 1530,
+    "height": 330,
+    "text": "LOB Admin\n\n&\n\nView Connection\n\nConfiguration Status\n\nLOB Admin fogs into\nResource Manager\n\nIs Connection Configuration\n\u2018Available?\n\nYes ->| Select in Ul to Retire\n\nz\u2014\n\nEnd\n\nRetirement ensures Connection\nConfiguration exists but can't be\nUsed for new Resources\n\nUpdate Connection\nConfiguration Status\nto \u2018Retired\n\nFire\n\u2018ConnectionConfiguration\nRetiredEvent\n\nIs Connection Configuration\n\nRetired?\n\nNo:\n\nYes >|\n\n&\n\nSelect in UI to\n\nDecommission\n\nFire\nConnectionConfiguration\nDecommissionedEvent\n\nECM-L doesn't have the capability to make\nthe API non-operational, the Business does,\nECM-L only displays Decommissioned\nError message\n\nDisplay Connection\nDecommissioned\nmessage to user\nConnection\nConfiguration is\nDecommissioned",
+    "text_length": 721
+  },
+  {
+    "filename": "page_058_image_17.png",
+    "path": "images/page_058_image_17.png",
+    "width": 1810,
+    "height": 700,
+    "text": "'\ni\ni\ni\nIs Connection \u2018New Resource Version is created for !\nConfiguration Create Resource Resource using this Replacement !\n\u2018Available? Version? Connection Configuration i\nc\ns secouee verion Tete ALL Resouce Versions |\nConnection Configuration Overall Resource Version that used the i\n\u2014\u2014| > Yes \u2014\u00bb Yes \u2014|\n3 intake Process \u2018rocese ReementSubprocess RatvediDecommissioned |\n< = Connection Coniguraion \u2014}\ni i\n\n8] osadminpians to No No !\nor already decommissioned i i ) |\n\u20188 Connection Configuration 1 i\n' i\n| i\ni i\nO O H {\nond ond ' '\ni i\ni\nt\n\nH\n'\n\ni\n' i\n| i\ni\ni\nRetire ALL Template Versions |\nthat used the !\nRetired/Decommissioned !\nConnection Configuration i\ns i\n5 i\nva i\n3 | create Template version Template Version '\n3 \u2018Subprocess Retirement Subprocess i\n\n3\n\n5 Tew Template Version is created for + Connection Configuration + Relired Clean-up Process H\n\u00a3 TTempiate using the new Resource Version successfully replaces for is complete '\nie) that uses the Replacement Connection Configuration Letter Generation !\ni\ni\ni\ni\n,",
+    "text_length": 1023
+  },
+  {
+    "filename": "page_059_image_32.png",
+    "path": "images/page_059_image_32.png",
+    "width": 1949,
+    "height": 701,
+    "text": "LOBAdmin\n\nCreate, Update, or Retire Resource\nVersion?\n\n& vew\n\nAVAILABLE\n\nXN Connection List\nLogs in to\nResource\nManager\n\nCreate\n\n[Update\n\nRetire\n\nSelect Resource\nType\n\n\u00ae creat\n\nNew Resource\nVersion DRAFT\n\nData\n\nFile\n\nAVAILABLE\n\n& seca\n\nResource DRAFT,\nVersion\nIs the Resource\nVersion\nin DRAFT state\n\u2018or AVAILABLE\nstate?\n\nRetirement\n\u2018Subprocess\n\n+\n\nResource Version\nis Retired\n\nRemains as DRAFT\n\n_ | Notify user\nUser inputs of the error\n\nJexample resource\nparameter values\n\n;\n\n\u00ae saree\n\n\u00ae seca\n\n&\n\n|\n\ni Ne\na Test\nInput Resource Successtu?\nYes\nInput APL X Type Info\n\nAPI Test\n\u2018Successful?\n\n& cat\n\nDRAFT\n\nResource\nVersion\n\nData Resource Resource\nType Parameter(s) J\nSelect\nPOF elec\nSelect\n\nResource Add image\nType or POF?\n\nSelect\n\nImage: Select\n\n\u00a9\n\nNo\n\npts\n\nRemains as DRAFT\n\n Notity user\nof the error\n\nMake\n\nResource Version|\nAVAILABLE\n\nResource Version\n| moves to\nAVAILABLE state\n\n\u00a9\n\nResource Version\nDraft Completed\nEvent",
+    "text_length": 920
+  },
+  {
+    "filename": "page_060_image_14.png",
+    "path": "images/page_060_image_14.png",
+    "width": 1130,
+    "height": 340,
+    "text": "Resource Manager\n\n\u00ae Vows\n\nConfiguration\n\nIs Resource Version i\nAVAILABLE?\n\n& 3 &\n4 7 iN pdateResource \u2018Check to\nyes] Sete Rete Vesonto Very Relies\n\"Rete Sate\n= Par\nFite Resouceversion\n\nRefiredEvent\n\nDeo\u201c | fer Each Resource Version nat\nUses Old Connection Configuration",
+    "text_length": 269
+  },
+  {
+    "filename": "page_061_image_17.png",
+    "path": "images/page_061_image_17.png",
+    "width": 1891,
+    "height": 1214,
+    "text": "LOB Admin\n\nWorkflow Exists?\n\n&\n\n&\n\n&\n\n. <p] creste nev onaer | ___ fssun voto ou aga orto Mar row\n\u2018Workflow Name ot AVAILABLE\n(Optional)\nLog into Worktow Created\nTemplate Manager\n\u2019\nH\nH\n! &\nH Contigure y| Conigure\nYes ! Templates Template(s)\nH\nH\nH ee\nH\n' &\nassign Workttow new\nH\nH \u2018Update Name. >| Name\nH\nH\nH\nH\nH\nH\nSelect one or more\nt Update\nH \u2014 Worktow Key\nH Key Parameter Norton Ke\nH\n! ee\nY | \u2014\u2014\n1 Update\n& 1 coniguratons &\nUpdate or Retire? \u2014update\u2014p| Select AVAILABLE |_! _Add or Remove_,| Add or Remove\nWorktiow + C> \u201cremostes Template(s)\nH\nH\n| ee\n' \u2014\u2014\u2014\u2014\n' &\nH Undate___ |Add or Remove\n' Storage Claim Evidence\nH\nH\nH\nH\ni clam Evidence\nne H Contigured?\ntre H\n' &\nUpdate Add or Remove\nH\n1 Distribution > Yes Package Manager\nH\nH\nH\nH\nH No\nH [ & &\n! Add Package\n' \u2018Add Cla Evidence i Pacha '\ni H\nH H\niy H\n\nRetire Workflow\n\nWorkflow Updated\n\n*O\n\nWorkflow Updated\n\nCreate\nWorkflow/System\nKey Parameter(s)",
+    "text_length": 902
+  },
+  {
+    "filename": "page_062_image_30.png",
+    "path": "images/page_062_image_30.png",
+    "width": 2602,
+    "height": 1115,
+    "text": "Changeset Editor\n\n&\n\nAssign Name for the\nChangeset\n\n&\n\nChangeset Editor\nCreates Changeset\n\nSelect List View\n\nTemplate View\nor File View?\n\nFile View\n\nTemplate\nView\n\nCreate or Retire\nFile Version?\n\n\u2018This process marks\n\u2018Template Draft Version as COMPLETE\n\n&\n\n[Enter Template Name|\n\n(Create New Template)\nVersion\n\u2018Subprocess\n\n&\n\nEnter Template Type\n\nYes\n\n(Full or Fragment)\n\n+\n\nNo:\nCreate a\nNew Template\nCreate New\n> xX Version irom Select Existing > X ves\u00bb\nExsting Template | Template Version\nIs Template Version Locked? Eng\n\nRetire an existing\n\u2018Template Version\n\nRetire File Version >|\n\nCreate File Version \u2014\u2014\u2014\u2014>|\n\nTemplate Version\nRetirement\nSubprocess\n\n+\n\nFile Version\nRetirement\nSubprocess\n\n+\n\nCreate additional\nFile Version?\n\nCreate File Version\n\u2018Subprocess\n\n|} Ada to Changeset\n\n+\n\n>| Add to Changeset\n\nAdd\u2019more\nTemplates?\n\nNo.\n\nNo\u2019\n\nEach version is selected and tested in this subprocess.\nIfa Test Scenario fails, itis moved to DRAFT state for corrections.\n\n&\n\nMark Changeset as.\nReady to Test\n\n\u2018Are there Template\nVersions?\n\nAll Template Versions\nin Changeset in\n\n>\n\n\u2018Template Version \u2018TESTED state?\nTesting\nSubprocess Mark Changeset as.\n>| > ves\u2014>(C) \"READY FOR\n\nAPPROVAL\u2019\n\n+\n\nNo\n\nChangeset is assigned to\nChangeset Publisher\n\nChangeset Publisher\n\n\u2018Template Version or File Version\nis \u2018AVAILABLE\u2019 or \u2018RETIRED:\nRetirement Actions get PUBLISHED\nwhen the Changeset is PUBLISHED\n\nChangeset Changeset moves\nReschedule Se PUBLISHED cote\n\u00a5\n\u2018Changeset Approval Changeset \u201c\nSubprocess Scheduling\nSubprocess\n(>) Yo\nChangeset Publisher + + Reschedule Scheduled Changeset Scheduled\nstars the approval process Changeset? Date/Time arrves Time Aved Event\n\nChangeset is\nPublished",
+    "text_length": 1670
+  },
+  {
+    "filename": "page_064_image_12.png",
+    "path": "images/page_064_image_12.png",
+    "width": 1580,
+    "height": 555,
+    "text": "Changeset Editor\n\nClaim Evidence/Package\nManager Exempt or Package\n\nManager Exempt?\n\nClaim Evidence/Package\n\nDocuments will be stored in CE only ifthe\nWoridiow is configured to use CE.\n\nthis situation\n\nManager Exempt Mark as \u2018Claim\n\nEvidence and\n\nOverride Storage/Distribution\n\n&\n\nIncrement Template\n\n&\n\n\u2018Add Template |\n\n&\n\n>|\n\n[Edit Template Version|\n\n~O\n\nO\n\nCreate Template\nVersion\n\nVersion Number |\n\n>|\n\nVersion to Template\n\nContent\n\nAdd File Version(s)\n\n*<X\n\nPackage Manager\nExempt\n\n&\n\nAdd AVAILABLE File\nVersion(s)\n\n19)\n\nPackage Exempt\u2019\n\n&\n\nMark as \u2018Package\nManager Exempt [7\n\n[Documents will be stored in CE only if the\nWoridiow is configured with both CE and\nPackage Manager.\n\nMark Template\nVersion as\n\u2018Completed\n\nPackage Manager is automatically exempt in\n\nTemplate Version Draft\nCompleted Event",
+    "text_length": 803
+  },
+  {
+    "filename": "page_065_image_01.png",
+    "path": "images/page_065_image_01.png",
+    "width": 1362,
+    "height": 295,
+    "text": "& & &\nSelect AVAILABLE\nTemplate Version or\n\nFile Version\n\nAdd DRAFT\n| Create DRAFT | Mark Retirement |\n>| Add to Changeset >| Rctrement Action | Retirement Action to >| action as Complete >\n\n>| Select Retire in UI\nthe Changeset\n\nRetirement Action\nComplete Event\n\nChangeset Editor\nstarts Retirement Action\n\n5\n5\nWw\no\n$\n8\ng\ng\n5\ng\n[s)\n\n(Can Create New Changeset\nof Add to Existing Changeset",
+    "text_length": 386
+  },
+  {
+    "filename": "page_065_image_02.png",
+    "path": "images/page_065_image_02.png",
+    "width": 2327,
+    "height": 480,
+    "text": "Changeset Editor / Changeset Publisher\n\n&\n\nCreate New Draft\n\nOa\n\nUser Selects\nCompleted\nTemplate Version\nto Test\n\nYes \u2014>|\n\n>|\n\nEs by side comparison of PDF can be done\n\n{or imported Test Scenarios only\n\nTest Scenario\n\n&\n\n&\n\nView Rendered PDF\n\nMark Test Scenario\nas READY FOR\n\ny+ secat ts cero\n\nEnter Fields |\n\nREVIEW\n\nPDF Meets\nExpectations?\n\n&\n\nMark Test Scenario\n\n&\n\nMark Template\n\nView Existing Test\n\n\u2018Scenario\n\nYar\n\nCompleted Event No\n\nMark Test Scenario\nas FAILED\n\nTest Scenario\nFailed Event\n\nas PASSED\n\n\u00bb+ J Test scenario moves to\nDRAFT state\n\nTest Scenario\nPassed Event\n\nY\u2014no\n\nAdditional Test\nScenario(s) Needed?\n\nVersion TESTED\n\nTemplate Version\nTests Passed\nEvent\n\nTemplate Version\nMoves to\nTESTED State",
+    "text_length": 712
+  },
+  {
+    "filename": "page_066_image_30.png",
+    "path": "images/page_066_image_30.png",
+    "width": 1259,
+    "height": 284,
+    "text": "Changeset Editor\n\n\u00ae\n\n&\n\n&\n\n>\n\nChangeset Editor\nCreates\nFile Version\n\nIncrement File\nVersion\n\nEnter File\nVersion Name\n\nBrowse File(s)\n\n&\n\nAdd POF\n\nPDF or Image?\n\n&\n\n\u2018Add image\n\n\u2018System Validates Correct PDF or Image.\n(Otherwise prompts User with Error Message\n\nFile Version updated to\nCOMPLETED State\n\nFile Version Draft\nCompleted Event",
+    "text_length": 335
+  },
+  {
+    "filename": "page_067_image_12.png",
+    "path": "images/page_067_image_12.png",
+    "width": 2217,
+    "height": 1977,
+    "text": "Changeset Publisher\n\nChangeset Editor\n\n(Changeset Publisher\nlogs in to\nApprove Changeset (=\n\nready for\nApproval?\n\nIs Changeset\nReview Template Versions\n\nRetirement\n\nor File Versions? ations only? &\n\nSelect TESTED\n\nSelect Changeset\n\nRetirement Actions,\nonly?\n\nChangeset moves to\nDRAFT state\n\n&\n\nRecall Changeset\nback to DRAFT state\nfor corrections\n\nChangeset Recalled\n\nves XK\n\nCK ono\nTemplate Template Version\n\nVersions\n\nFile Versions\n\nSelect Retirement\n\n\u2018Template Version Approval Subprocess\n\nIs the Template Version\nB salisfactory?\n\nMark Template\nVersion as\nAPPROVED\n\nReview content in\n\u2018Template Version\n\n&\n\nProvide Reason\n\nFor each Template Version\ninthe Changeset ~~\n\nRetirement Action Approval Subprocess\n\nMark Retirement\nAction as\nAPPROVED\n\nRetirement Action Approval\nCompleted Event\n\n&\n\n\u2018Action.\n\nSelect COMPLETED\n\nTemplate\nVersion\nApproval\nCompleted\nProcess Event\n\n>| Reviewratement |__\u00a5/WS_ up\n\n\u2018Action >} Provide Reason\n\nCan the\nRetirement Action\nbe Approved?\n\nFor each Retirement Action\ninthe Changeset,\n\nFile Version Approval Subprocess\n\n&\n\nMark File Version as >\nAPPROVED\nFile Version Approval\nCompleted Event\n\nFile Version\n\n>| Review File Version |-\u2014> \u00bb| Provide Reason\n\nIs the File Version\nAPPROVED?\n\n[he-----] Foreaen Fie version\ninthe Changeset,\n\nChangeset Corrections Subprocess,\n\nTemplate Version(s).\n\nSelect Changeset for\n\n\u2018corrections -- Retirment Actions)\n\n\u2018Do Template Version(s)\nRetirement Action(s), oF\nFile Version(s) require\n\u2018corrections?\n\nFile Version(s)\n\n[oes moves o\n\nAPPROVED state\n\n\u2018Changeset Approval Process\n\u2018Complete Event\n\n\u2018Are all Template Versions,\nRetirement Actions,\nand File Versions approved?\n\nChangeset Rejected Event\n\nAll Template Versions\nin Changeset in\n\nChangeset moves to\nREJECTED state\n\nMake corrections to\n\u2018Template Version(s)\nand mark as\nCOMPLETED\n\nke coectons to\nRetirement Actions(s)|\n\nB Template Version\nTesting\nSubprocess\n\n+\n\nMark Changeset as.\nReady to Test\n\n\"TESTED state?\n\nYes\n\n\u2018ark Changeset as.\n\nand mark as\nCOMPLETED\n\n{Pk corectons to\nFile Version(s) and\nmark as\nCOMPLETED\n\nDoes Changeset contain\n\nAre all Template Version(s),\n\u2018Template Version(s)?\n\nRetirement Action(s),\nand File Version(s) completed?\n\nREADY FOR\nAPPROVAL\n\nChangeset Submitted\n\nfor Approval Event Changeset moves to\n[READY FOR APPROVAL state",
+    "text_length": 2268
+  },
+  {
+    "filename": "page_069_image_29.png",
+    "path": "images/page_069_image_29.png",
+    "width": 904,
+    "height": 382,
+    "text": "Changeset\nChangeset moves to\n\u2018Scheduled \u201c| SCHEDULED\nPreviously? ~~ [State\n\n& Noti\n\nChangeset Publisher Changeset Publishing Business\n\u2018Schedules Changeset Planned Event Notified\n\n5\nTad\nG\na\nS\na\nzy\na\n@\n+=]\n2\nG\n=\nis)\n\nChangeset Rescheduled\n\nEvent Changeset\n\nremains in a\nSCHEDULED\nState",
+    "text_length": 283
+  },
+  {
+    "filename": "page_069_image_31.png",
+    "path": "images/page_069_image_31.png",
+    "width": 2110,
+    "height": 1180,
+    "text": "Letter Editor\n\nUser fogs in to\nLetter Manager\n\n&\n\nCreate New,\nUpdate Existing,\not Delete Letter POF Generation\ninstance? B B Successful?\n\u2018Select Preview\nView List of Create New DRAFT \u2018Add Letter Instance\nLetter Instance(s) X Create New Letter Instance Content >) DRAFT Letter\nInstance\n> <\nUser notified of\nLetter Instance errors prohibiting\nRecreated Event the PDF from\nbeing rendered\nNo Use New\nTemplate Version?\n& Notiy user New & te\nL Select DRAFT Letter yes \u2014\u00bb] Major Template Click to update Letter instance Update\nUpdate Existing \u2014>} Instance \u2018Version is Instance with New Major\nAVAILABLE JAVAILABLE Template\nTemplate Version Version\nUpdated? -\n- No\nUser Waring: Data Loss\nwill result wien New Major Template\nVersion is selected &\nClick to cancel Letter\nInstance\nEnd\n2 patee\nDRAFT of READY\nInstance\n\nLetter Instance\nDeleted Event\n\nPreview DRAFT\n\nYes) Letter instance\n\nNo\n\nMark Letter Instance\n\u2018a READY FOR,\nREVIEW\n\nDoes Letter PDF\nlook good?\n\nSystem renders PDF\nwith (DRAFT Watermark\n\nLetter Instance\nmoves to\nREADY FOR\nREVIEW State\n\n\u00a9\n\nLetter Instance\nDraft Complete Event\n\nLetter Finalizer\n\nO-5\n\nUser fogs in to\nLetter Manager\n\nTemplate Verison\n\n& \u00ae vew\n\nView List of Letter READY FOR\nInstance(s) REVIEW Letter\nInstance\n\nSystem renders PDF with\n\"READY FOR REVIEW Watermark\n\nFinalize Letter\nInstance?\n\nwo =\n\nUpdated?\n\nLetter Instance\nmoves to\n\nLetter Instance\nFINALIZED\n\nNo\n\n|\n\nMark Select\n\nNotify user New |\n\n> .\nFINALIZED State\n\nLetter Instance\nFinalized Event\n\nLetter Instance\n\nVersion is REJECTED\n\n>| Letter Instance | REJECTED Reason\nAVAILABLE\n\nMajor Template |\n\n> moves to\nREJECTED State\nLetter Instance\nDraft Rejected\nEvent",
+    "text_length": 1637
+  },
+  {
+    "filename": "page_071_image_30.png",
+    "path": "images/page_071_image_30.png",
+    "width": 1637,
+    "height": 1024,
+    "text": "Cameco) (Ears) Camacrmer] (\u2014Lastem | (Lacnsaec\n\nLetter Manager \u2018Template Manager LoB API\n\nResource API\n\nECM. Letters DB \u2018ECM-LAPI\n\nistantiates Letter Draft +____\u2014\u2014>\n\n2. Select\nTemplate\n\n>{ |~. Pulls Template -\u00bbf\n4.Retums __\nTemplate\n\nki--------b- 6. Return logic~ \u2014\n\n7. Create\nLetter instance\n\nwoop]\n\n[for each\n\nIResource instance]\n\n8. Calls for Resource Data\u00bb\n\n|< - - - ~ 9. Retuns Resource Data - - - -|\n\n10. Populate\nLetter Instance\nwith data\n\n11. Success___\n_ _ 12, Success _ Message\nMessage T\nH L14.add Dat H\n13, input Data manually +\u2014\u00bb[]__\u201c\u201cio'etter of\nT Instance\n15, Asdigns Letter as \"Ready for Review\u201d \u2014\u2014\u2014\u2014\u00bb 16. Change H\nH Status. >) 17. Calls for Resource Data\u00bb\n|< - - - ~18. Retumns Resource Data - ~ ~\n19. Re-populat H\n) Letter instance\nwith data\nse 2 Nt of +20. Freezes resource data and save\n\n22. Notiy of\n\nstatus change \u2014|\n\nstatus change\n\n23, Select etter instance:\n\n28, Displays rendered letter \u2014\u2014}\u2014\u2014 +\n\n|_\u2014\u2014_\u20141s. call for LoB request logic >\n\n\u2014\u2014__ rf\n\n29. Approves Letter\n\n31. Notify of\nCie status change\n\n32. Select Letter instance\n\n| 37, Displays rendered letter | \u2014\u2014\u2014\u2014_\u2014_\u2014|\n38, Finalizes Letter Instance |\u00bb\n\n|_}* 41. Display Finalizes FoF \u2014\u2014|\n\n39. Calls\n\n= = = = 40. Renders PDF - \u2014 - - \u2014 - -\n\n24 Tigger H\nrendering : i ae\n28, Pulls frozen data H >|\na--------|----- 26.Retumne frozen Data ~~ ~ ~~ b-------4\n27. Populates H H\n> template with H H\n\u2018tozen data H H\n> H H\n30. Notify of __} | H\n[status change | H\n|__ 33. Trigger L ! i\nrendering i :\n34, Pulls frozen data t >|\nW--- oe ee 38. Relums frozen Data - \u2014 - \u2014 \u2014 $o-------\n36, Populates i\n> tempiate with H\n\u2018tozen data H",
+    "text_length": 1592
+  },
+  {
+    "filename": "page_072_image_28.png",
+    "path": "images/page_072_image_28.png",
+    "width": 789,
+    "height": 452,
+    "text": "Data structure\n\n| resource | Cone cTon Contgraton\n\nreturned from GET|\n\u2018operation on API\n\nData File returned\nfrom URL.\n\n\u2018Connection Configuration\u2019\n\nDerived From | resource | conetancomram >\n\n\u2018Connection Configuration!\n\nOther Data Input\n\nby User\n\n\u2018Connection Configuration\u2019\n\nLetter Instance\n\nTemplate Version\n\nUser",
+    "text_length": 312
+  },
+  {
+    "filename": "page_073_image_10.png",
+    "path": "images/page_073_image_10.png",
+    "width": 1505,
+    "height": 300,
+    "text": "25P1 1p EEESE 1g 24 Team Sprints \u2018Can Support VR&E 1p Can Support Comp Services\n= Teams | 24 Team Sprint\nCompicton FYz0a2 Pat RC ial can Renloce Docoen Puats Completion F260\n\n4 Teams / 24 Team Sprints\n\u2018Completion Mid FY271\n\nFull API Access for Automation\n\nApproximately 116 Team Sprints of Capacity Total",
+    "text_length": 304
+  },
+  {
+    "filename": "page_073_image_12.png",
+    "path": "images/page_073_image_12.png",
+    "width": 1430,
+    "height": 655,
+    "text": "Phase\nFoundations\n\n+ Infrastructure\n\n+ BAAZ Integration\n\n+ Line of Business Management\n\n+ Changeset and Definition Management\n\n+ Label Creation\n\n+ Stand-a-lone and MFE Letter Management Views\n\n+ Simple Inputs: Text, Number, Boolean, Date, Address, Option Selection\n+ Input Groups\n\n+ Conditional Logic Placeholders\n\n25P1\n4 Teams / 44 Team Sprints\nCompletion FY2602\n\nPhase 1:\nAPI, Inclusions, Images, and Attachments\n\n(CCL) (BocGen Plugins -) (_FuITAPIAccess for Automation)\n+ Fragment Templates and Inclusions\n\n+ Fragment Selection Inputs\n\n+ Template Manager Image Support\n\n+ Option Selection Sub-Inputs\n\n+ Template Manager PDF Support\n\n+ Attachment Selection Inputs\n\n+ Full API Functionality (ECML-API Support )\n\n+ Connection Configuration Support\n\nTe\n4 Teams / 24 Team Sprints\nCompletion FY2603\n\nPhase 2:\nData Resources, Claim Evidence, and Conditionals\nCvrae)\n\n+ Data Resource Support ( Populating Templates with Remote Data)\n+ Inputs with Data Resource Provided Defaults\nield Group\" Option Selection Inputs\n+ Conditional Letter Restrictions: Single Draft Only and Restricting Based on Other Letters\n+ Conditional Letter Restrictions: Restrictions Based on Data Resource Information\n+ PDF Form Prepopulation Support ( Template-driven Data )\n+ Claim Evidence Storage Support\n+ Conditional Inclusions for Fragment Selection Inputs\n+ Conditional Attachments for Attachment Selection Inputs\n1PI\n\n4 Teams / 24 Team Sprints\nCompletion FY2604\n\nPhase 3:\nPackage Manager and Child Letters\n\n* Child Letters\n+ Conditional Child Letters\n\n+ Package Manager Distribution Support\n\n+ Recipient Selection Input\n\n+ Image Resource Support ( Remote Images)\n\n+ PDF Resource Support ( Remote PDFs )\n\n+ PDF Form Prepopulation Support ( Resource-driven Data )\n+ QR Codes and Bar Codes\n\nTe\n4 Teams / 24 Team Sprints\nCompletion Mid FY27a1",
+    "text_length": 1814
+  }
+]

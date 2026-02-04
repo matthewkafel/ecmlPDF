@@ -12,9 +12,12 @@ This repository contains the ECM-L (Enterprise Correspondence Management - Lette
 The PDF has been fully extracted into a readable format optimized for GitHub Copilot:
 
 #### Main Files
-- **[extracted_content/ECM-L_Architecture.md](extracted_content/ECM-L_Architecture.md)** - Complete documentation in Markdown format
+- **[extracted_content/ECM-L_Architecture.md](extracted_content/ECM-L_Architecture.md)** - Complete documentation in Markdown format with OCR text from images
+- **[extracted_content/IMAGE_CONTENT.md](extracted_content/IMAGE_CONTENT.md)** - All text extracted from diagrams via OCR (49 images with text)
 - **[extracted_content/EXTRACTION_SUMMARY.md](extracted_content/EXTRACTION_SUMMARY.md)** - Summary of extracted content
+- **[extracted_content/INDEX.md](extracted_content/INDEX.md)** - Table of contents
 - **extracted_content/images/** - Directory containing all 2,485 extracted images and diagrams
+- **extracted_content/image_content.json** - Structured JSON data of image OCR results
 
 ## 🤖 How to Use with GitHub Copilot
 
@@ -28,17 +31,26 @@ Now that the content is extracted, you can:
 2. **Reference specific sections:**
    - The markdown file contains all text organized by page
    - All diagrams and images are extracted and referenced
+   - **OCR text from diagrams is embedded inline** - Copilot can read text from visual diagrams!
    - Vector graphics (diagrams, shapes, lines) are noted
 
 3. **Browse the content:**
    - Open `extracted_content/ECM-L_Architecture.md` to read the full documentation
-   - Images are referenced inline and stored in `extracted_content/images/`
+   - Images are referenced inline with OCR text extracted where available
+   - Check `extracted_content/IMAGE_CONTENT.md` for all diagram text in one place
+
+4. **Search diagram content:**
+   - Text extracted from 49 diagrams using OCR
+   - Search for terms that appear in diagrams and flowcharts
+   - All diagram text is now searchable and readable by Copilot
 
 ## 📊 Extraction Statistics
 
 - **Total Pages:** 76
-- **Images Extracted:** 2,485
-- **Format:** Markdown with embedded image references
+- **Images Extracted:** 2,485 (all diagrams and figures)
+- **Images with OCR Text:** 49 (containing readable text)
+- **OCR Text Extracted:** ~30,000 characters from diagrams
+- **Format:** Markdown with embedded image references and OCR text
 - **Image Formats:** PNG
 
 ## 🔍 Document Contents
